@@ -1,8 +1,9 @@
 .header img {
-height: 300px;
+height: 200px;
 }
 .header{
     text-align: center;
+   
 }
 .header nav{
     background-color: #696969;
@@ -17,4 +18,7 @@ nav a {
 }
 nav a:hover{
     background-color:#696969;
+}
+.link{
+    display:flex;
 }

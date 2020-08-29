@@ -11,7 +11,7 @@ const Cart = (props) => {
     
     
     return (
-        <div>
+        <div className="cart-style">
             <h1>Order summery</h1>
             <p>items order:{cart.length}</p>
             <p>Total Price:${total}</p>
